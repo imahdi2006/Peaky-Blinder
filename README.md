@@ -29,7 +29,7 @@ License
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 
 Contact
-For any inquiries, you can contact me at your-email@example.com.
+For any inquiries, you can contact me at mahdi.mahdi1385631@gmail.com .
 
 Support
 If you find this project helpful, please consider supporting me:
